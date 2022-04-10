@@ -1,0 +1,37 @@
+{
+  "name": "mlm_osw",
+  "version": "1.0.0",
+  "description": "mlm binary network for osw",
+  "main": "index.js",
+  "scripts": {
+    "style": "node-sass assets/sass/main.scss assets/css/style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viallymboma/mlm_osw_network.git"
+  },
+  "author": "vially",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viallymboma/mlm_osw_network/issues"
+  },
+  "homepage": "https://github.com/viallymboma/mlm_osw_network#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.4",
+    "bootstrap": "^5.1.3",
+    "browser-sync": "^2.27.9",
+    "chartist": "^0.11.4",
+    "chartist-plugin-tooltips": "^0.0.17",
+    "del": "^6.0.0",
+    "node-sass": "^7.0.1",
+    "notyf": "^3.10.0",
+    "nouislider": "^15.5.1",
+    "onscreen": "^1.4.0",
+    "simplebar": "^5.3.6",
+    "smooth-scroll": "^16.1.3",
+    "sweetalert2": "^11.4.8",
+    "vanillajs-datepicker": "^1.2.0",
+    "waypoints": "^4.0.1"
+  }
+}
